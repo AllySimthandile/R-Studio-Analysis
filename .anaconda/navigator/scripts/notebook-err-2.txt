@@ -1,0 +1,79 @@
+[I 08:09:44.768 NotebookApp] JupyterLab extension loaded from C:\ProgramData\Anaconda3\lib\site-packages\jupyterlab
+[I 08:09:44.768 NotebookApp] JupyterLab application directory is C:\ProgramData\Anaconda3\share\jupyter\lab
+[I 08:09:44.770 NotebookApp] Serving notebooks from local directory: C:\Users\Student
+[I 08:09:44.771 NotebookApp] The Jupyter Notebook is running at:
+[I 08:09:44.771 NotebookApp] http://localhost:8888/?token=4b5960aea385c1946ecb75c093631279ef6de37b9aea0582
+[I 08:09:44.771 NotebookApp]  or http://127.0.0.1:8888/?token=4b5960aea385c1946ecb75c093631279ef6de37b9aea0582
+[I 08:09:44.771 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 08:09:44.893 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/Student/AppData/Roaming/jupyter/runtime/nbserver-6196-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=4b5960aea385c1946ecb75c093631279ef6de37b9aea0582
+     or http://127.0.0.1:8888/?token=4b5960aea385c1946ecb75c093631279ef6de37b9aea0582
+[I 10:30:34.408 NotebookApp] Uploading file to /LGD.csv
+[I 10:30:35.748 NotebookApp] Uploading file to /Corrected_Session Casestudy - LGD dataset (1).ipynb
+[W 10:30:35.755 NotebookApp] Notebook Corrected_Session Casestudy - LGD dataset (1).ipynb is not trusted
+[W 10:30:48.876 NotebookApp] Notebook Corrected_Session Casestudy - LGD dataset (1).ipynb is not trusted
+[I 10:30:49.603 NotebookApp] Kernel started: afa6566b-84e8-4161-a9ba-c62538f699c3
+[I 10:32:49.379 NotebookApp] Saving file at /Corrected_Session Casestudy - LGD dataset (1).ipynb
+[I 10:35:27.425 NotebookApp] Starting buffering for afa6566b-84e8-4161-a9ba-c62538f699c3:f38a85319687415caeb398233c553a2a
+[I 10:35:50.634 NotebookApp] Uploading file to /Project_2_Thera Bank Personal Loan Campaign.ipynb
+[W 10:35:50.636 NotebookApp] Notebook Project_2_Thera Bank Personal Loan Campaign.ipynb is not trusted
+[I 10:35:51.683 NotebookApp] Uploading file to /memo_Project_2_Bank Loan (1).ipynb
+[W 10:35:51.685 NotebookApp] Notebook memo_Project_2_Bank Loan (1).ipynb is not trusted
+[I 10:35:52.664 NotebookApp] Uploading file to /Bank_Personal_Loan_Modelling.csv
+[W 10:36:05.372 NotebookApp] Notebook memo_Project_2_Bank Loan (1).ipynb is not trusted
+[I 10:36:06.369 NotebookApp] Kernel started: c73d1ed8-dc4f-4236-bbb7-7d09bcfd155a
+[W 10:36:07.447 NotebookApp] Notebook Project_2_Thera Bank Personal Loan Campaign.ipynb is not trusted
+[I 10:36:08.634 NotebookApp] Kernel started: 226ba8ff-9ac8-4d92-9fc4-f713d06e2a2c
+[I 10:38:07.192 NotebookApp] Saving file at /memo_Project_2_Bank Loan (1).ipynb
+[I 10:38:09.207 NotebookApp] Saving file at /Project_2_Thera Bank Personal Loan Campaign.ipynb
+[W 10:38:09.208 NotebookApp] Notebook Project_2_Thera Bank Personal Loan Campaign.ipynb is not trusted
+[I 10:38:27.202 NotebookApp] Uploading file to /Memo_Concrete strength Prediction.ipynb
+[W 10:38:27.204 NotebookApp] Notebook Memo_Concrete strength Prediction.ipynb is not trusted
+[I 10:38:28.313 NotebookApp] Uploading file to /concrete (1).csv
+[W 10:38:31.000 NotebookApp] Notebook Memo_Concrete strength Prediction.ipynb is not trusted
+[I 10:38:32.189 NotebookApp] Kernel started: 5b2a21fd-0342-4f3f-83b4-1f51d4636c00
+[I 10:40:32.231 NotebookApp] Saving file at /Memo_Concrete strength Prediction.ipynb
+[W 10:40:32.232 NotebookApp] Notebook Memo_Concrete strength Prediction.ipynb is not trusted
+[I 10:58:32.217 NotebookApp] Saving file at /Memo_Concrete strength Prediction.ipynb
+[W 10:58:32.218 NotebookApp] Notebook Memo_Concrete strength Prediction.ipynb is not trusted
+[I 11:00:33.198 NotebookApp] Saving file at /Memo_Concrete strength Prediction.ipynb
+[W 11:00:33.199 NotebookApp] Notebook Memo_Concrete strength Prediction.ipynb is not trusted
+[I 11:01:11.141 NotebookApp] Uploading file to /concrete.csv
+[I 11:02:32.217 NotebookApp] Saving file at /Memo_Concrete strength Prediction.ipynb
+[I 11:06:32.197 NotebookApp] Saving file at /Memo_Concrete strength Prediction.ipynb
+[I 11:08:32.211 NotebookApp] Saving file at /Memo_Concrete strength Prediction.ipynb
+[I 11:14:32.222 NotebookApp] Saving file at /Memo_Concrete strength Prediction.ipynb
+[I 11:24:16.243 NotebookApp] Uploading file to /Memo_Games.ipynb
+[W 11:24:16.245 NotebookApp] Notebook Memo_Games.ipynb is not trusted
+[I 11:24:18.598 NotebookApp] Uploading file to /games.csv
+[W 11:24:23.079 NotebookApp] Notebook Memo_Games.ipynb is not trusted
+[I 11:24:23.978 NotebookApp] Kernel started: 3cbf78c3-5688-4ee2-8517-c7d073ba85cb
+[I 11:26:02.041 NotebookApp] Uploading file to /Memo_LogisticRegression.ipynb
+[W 11:26:02.043 NotebookApp] Notebook Memo_LogisticRegression.ipynb is not trusted
+[I 11:26:03.407 NotebookApp] Uploading file to /German_Credit (1).xlsx
+[I 11:26:24.168 NotebookApp] Saving file at /Memo_Games.ipynb
+[I 11:26:33.202 NotebookApp] Saving file at /Memo_Concrete strength Prediction.ipynb
+[I 11:30:32.215 NotebookApp] Saving file at /Memo_Concrete strength Prediction.ipynb
+[I 11:34:32.211 NotebookApp] Saving file at /Memo_Concrete strength Prediction.ipynb
+[I 11:40:32.229 NotebookApp] Saving file at /Memo_Concrete strength Prediction.ipynb
+[I 11:54:32.211 NotebookApp] Saving file at /Memo_Concrete strength Prediction.ipynb
+[I 12:44:32.211 NotebookApp] Saving file at /Memo_Concrete strength Prediction.ipynb
+[I 12:46:32.222 NotebookApp] Saving file at /Memo_Concrete strength Prediction.ipynb
+[I 12:48:32.218 NotebookApp] Saving file at /Memo_Concrete strength Prediction.ipynb
+[I 12:54:32.226 NotebookApp] Saving file at /Memo_Concrete strength Prediction.ipynb
+[I 13:02:32.230 NotebookApp] Saving file at /Memo_Concrete strength Prediction.ipynb
+[I 13:06:32.211 NotebookApp] Saving file at /Memo_Concrete strength Prediction.ipynb
+[I 13:14:32.222 NotebookApp] Saving file at /Memo_Concrete strength Prediction.ipynb
+[I 13:20:32.215 NotebookApp] Saving file at /Memo_Concrete strength Prediction.ipynb
+[I 13:34:32.228 NotebookApp] Saving file at /Memo_Concrete strength Prediction.ipynb
+[I 14:24:57.446 NotebookApp] Starting buffering for 3cbf78c3-5688-4ee2-8517-c7d073ba85cb:c76fb4266c4e49778bd4b644bd5c78f9
+[I 14:24:58.539 NotebookApp] Starting buffering for 5b2a21fd-0342-4f3f-83b4-1f51d4636c00:61cc45d7f084462c8da92a2a614d23d8
+[I 14:25:02.697 NotebookApp] Starting buffering for c73d1ed8-dc4f-4236-bbb7-7d09bcfd155a:ab9ea15b6fcc457483c91d7be2fcc08a
+[I 14:25:03.393 NotebookApp] Starting buffering for 226ba8ff-9ac8-4d92-9fc4-f713d06e2a2c:9d4e280603e3410b8aa8fe6ca74654b4
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.

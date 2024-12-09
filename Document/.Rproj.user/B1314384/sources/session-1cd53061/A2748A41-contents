@@ -1,0 +1,14 @@
+
+library(neuralnet)
+
+# Example data (Iris dataset)
+data(iris)
+nn <- neuralnet(Species ~ Petal.Length + Petal.Width + Sepal.Length + Sepal.Width, 
+                data = iris, 
+                hidden = c(5,3)
+               )
+
+library(Rserve)
+Rserve()
+# Save the model
+save(nn, file = "model.RData")

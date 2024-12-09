@@ -1,0 +1,78 @@
+[I 13:44:32.519 NotebookApp] The port 8888 is already in use, trying another port.
+[I 13:44:32.575 NotebookApp] JupyterLab extension loaded from C:\ProgramData\Anaconda3\lib\site-packages\jupyterlab
+[I 13:44:32.575 NotebookApp] JupyterLab application directory is C:\ProgramData\Anaconda3\share\jupyter\lab
+[I 13:44:32.577 NotebookApp] Serving notebooks from local directory: C:\Users\Student
+[I 13:44:32.577 NotebookApp] The Jupyter Notebook is running at:
+[I 13:44:32.578 NotebookApp] http://localhost:8889/?token=11fa009be51ee7f6b5a5043d1bd0558b6db474e6956fd10b
+[I 13:44:32.578 NotebookApp]  or http://127.0.0.1:8889/?token=11fa009be51ee7f6b5a5043d1bd0558b6db474e6956fd10b
+[I 13:44:32.578 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 13:44:32.663 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/Student/AppData/Roaming/jupyter/runtime/nbserver-6680-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=11fa009be51ee7f6b5a5043d1bd0558b6db474e6956fd10b
+     or http://127.0.0.1:8889/?token=11fa009be51ee7f6b5a5043d1bd0558b6db474e6956fd10b
+[I 13:44:47.107 NotebookApp] Kernel started: 9f19f99a-49f0-4fb5-b80a-e6a0fba4f24d
+[I 13:46:47.112 NotebookApp] Saving file at /Memo_Concrete strength Prediction.ipynb
+[I 13:48:47.108 NotebookApp] Saving file at /Memo_Concrete strength Prediction.ipynb
+[I 13:52:47.100 NotebookApp] Saving file at /Memo_Concrete strength Prediction.ipynb
+[I 13:56:47.102 NotebookApp] Saving file at /Memo_Concrete strength Prediction.ipynb
+[I 14:04:47.107 NotebookApp] Saving file at /Memo_Concrete strength Prediction.ipynb
+[I 14:06:47.186 NotebookApp] Saving file at /Memo_Concrete strength Prediction.ipynb
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py:531: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  estimator.fit(X_train, y_train, **fit_params)
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py:531: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  estimator.fit(X_train, y_train, **fit_params)
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py:531: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  estimator.fit(X_train, y_train, **fit_params)
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py:531: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  estimator.fit(X_train, y_train, **fit_params)
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py:531: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  estimator.fit(X_train, y_train, **fit_params)
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py:531: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  estimator.fit(X_train, y_train, **fit_params)
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py:531: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  estimator.fit(X_train, y_train, **fit_params)
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py:531: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  estimator.fit(X_train, y_train, **fit_params)
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py:531: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  estimator.fit(X_train, y_train, **fit_params)
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py:531: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  estimator.fit(X_train, y_train, **fit_params)
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py:531: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  estimator.fit(X_train, y_train, **fit_params)
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py:531: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  estimator.fit(X_train, y_train, **fit_params)
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py:531: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  estimator.fit(X_train, y_train, **fit_params)
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py:531: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  estimator.fit(X_train, y_train, **fit_params)
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\model_selection\_validation.py:531: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+  estimator.fit(X_train, y_train, **fit_params)
+[I 14:15:40.434 NotebookApp] Uploading file to /glass.ipynb
+[W 14:15:40.435 NotebookApp] Notebook glass.ipynb is not trusted
+[I 14:15:41.691 NotebookApp] Uploading file to /glass.csv
+[W 14:15:44.671 NotebookApp] Notebook glass.ipynb is not trusted
+[I 14:15:45.254 NotebookApp] Kernel started: b94b6a17-148a-434f-b193-39285dfc9bf9
+[I 14:17:45.253 NotebookApp] Saving file at /glass.ipynb
+[I 14:24:43.169 NotebookApp] Starting buffering for 9f19f99a-49f0-4fb5-b80a-e6a0fba4f24d:9c49d5f2fa0449da888ef8ac5636ed72
+[I 14:24:44.152 NotebookApp] Starting buffering for b94b6a17-148a-434f-b193-39285dfc9bf9:341afdd226e74e87934f75e20008e779
+[I 14:25:47.847 NotebookApp] Kernel shutdown: b94b6a17-148a-434f-b193-39285dfc9bf9
+[I 14:25:48.656 NotebookApp] Kernel shutdown: 9f19f99a-49f0-4fb5-b80a-e6a0fba4f24d
+[W 14:25:48.661 NotebookApp] delete /concrete_tree.dot
+[W 14:25:48.796 NotebookApp] delete /glass.ipynb
+[W 14:25:48.820 NotebookApp] delete /glass.csv
+[W 14:25:48.842 NotebookApp] delete /Memo_Concrete strength Prediction.ipynb
+[W 14:25:48.870 NotebookApp] delete /concrete_tree.png
+[W 14:25:48.910 NotebookApp] delete /Memo_Games.ipynb
+[W 14:25:48.941 NotebookApp] delete /German_Credit (1).xlsx
+[W 14:25:48.974 NotebookApp] delete /Memo_LogisticRegression.ipynb
+[W 14:25:48.998 NotebookApp] delete /games.csv
+[W 14:25:49.024 NotebookApp] delete /concrete.csv
+[W 14:25:49.047 NotebookApp] delete /concrete (1).csv
+[W 14:25:49.078 NotebookApp] delete /Project_2_Thera Bank Personal Loan Campaign.ipynb
+[W 14:25:49.118 NotebookApp] delete /memo_Project_2_Bank Loan (1).ipynb
+[W 14:25:49.149 NotebookApp] delete /Bank_Personal_Loan_Modelling.csv
+[W 14:25:49.173 NotebookApp] delete /Corrected_Session Casestudy - LGD dataset (1).ipynb
+[W 14:25:49.191 NotebookApp] delete /LGD.csv

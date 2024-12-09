@@ -1,0 +1,3 @@
+data(iris)
+iris_subset <- iris[, c("Sepal.Length", "Sepal.Width", "Petal.Length", "Petal.Width", "Species")]
+write.csv(iris_subset, "irissubset.csv", row.names = FALSE)
